@@ -3,12 +3,9 @@ Campeonato deporte
 
 El programa permite:
 
-Registrar empate 2-2.
-
-Se implemento en java.
-
-Registrar numero de jugadores.
-
+Registrar empate 2-2.<br>
+Se implemento en java.<br>
+Registrar numero de jugadores.<br>
 Registrar arbitro, fecha de inicio y fin del campeonato.
 
 
