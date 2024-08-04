@@ -17,6 +17,15 @@ El programa permite:
 ![image](https://github.com/user-attachments/assets/83ae7a14-f6bb-43eb-8766-dfc7336fe677)
 
 **EJECUCIÓN:**
+
+*IMPORTANTE:* Para un correcto funcionamiento deberás completar adecuadamente los campos solicitados:
+
+-El nombre del campeonato debe contener únicamente letras.
+-El nombre del equipo no debe contener espacios ni números.
+-Ingresar únicamente números en: número de equipos, goles, DNI.
+-Completar el nombre del jugador con el formato: nombre apellido.
+-Completar la fecha de nacimiento con el formato aaaa-mm-dd (Ejemplo: 2001-01-01).
+
 ![image](https://github.com/user-attachments/assets/915fcbb2-590d-4649-bef9-a9acaaab3dbb)
 ![image](https://github.com/user-attachments/assets/0f654e44-5975-4b26-a4e3-8fa52b7b9c83)
 
