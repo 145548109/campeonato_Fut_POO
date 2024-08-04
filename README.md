@@ -12,7 +12,7 @@ El programa permite:
 - Presentar resultados: Equipo -> puntos, goles a favor, goles en contra, diferencia de goles.<br>
 - Seleccionar tipo de campeonato: Liga, torneo, grupo.
 
-**DIAGRAMA ACTUALIZADO V2.0 en base al codigo.**
+**DIAGRAMA ACTUALIZADO V2.0.**
 
 ![image](https://github.com/user-attachments/assets/83ae7a14-f6bb-43eb-8766-dfc7336fe677)
 
