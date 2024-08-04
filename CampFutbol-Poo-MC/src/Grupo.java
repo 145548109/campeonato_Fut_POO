@@ -16,6 +16,7 @@ public class Grupo {
 
     // Métodos
     public void agregarEquipo(Equipo equipo) {
+
         equipos.add(equipo);
     }
 
@@ -62,10 +63,12 @@ public class Grupo {
 
     // Getters y Setters
     public String getNombre() {
+
         return nombre;
     }
 
     public List<Partido> getPartidos() {
+
         return partidos;
     }
 }

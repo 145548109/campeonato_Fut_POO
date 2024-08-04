@@ -8,7 +8,8 @@ public class Resultado {
     private int golesEquipoB;
     private String ganador;
 
-    // Métodos
+
+    // Inicializar el resultado de un partido
     public static List<int[]> registrarResultados(List<Partido> partidos, Scanner scanner) {
         List<int[]> resultados = new ArrayList<>();
         for (Partido partido : partidos) {
@@ -20,11 +21,12 @@ public class Resultado {
             int golesA = scanner.nextInt();
             System.out.print(partido.getEquipoB().getNombre() + ": ");
             int golesB = scanner.nextInt();
-            scanner.nextLine(); // Limpiar buffer de entrada
+            scanner.nextLine();
             resultados.add(new int[]{partidos.indexOf(partido), golesA, golesB});
         }
         return resultados;
     }
+    // Métodos
 
     public String elegirGanador(){
         return ganador;

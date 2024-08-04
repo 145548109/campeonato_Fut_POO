@@ -18,6 +18,10 @@ public class Equipo {
         jugadores.add(jugador);
     }
 
+    public void eliminarJugador(Jugador jugador) {
+        jugadores.remove(jugador);
+    }
+
     public static Equipo crearEquipo(Scanner scanner) {
         System.out.println("\n\t\tCOMPLETE LOS DATOS DEL EQUIPO!");
         System.out.print("Nombre: ");

@@ -12,10 +12,6 @@ public class TablaPosicion {
     }
 
     // Métodos
-    public void presentarTabla() {
-        // Implementación del método presentarTabla
-    }
-
     public boolean existeEmpate() {
         return empate;
     }
@@ -39,6 +35,7 @@ public class TablaPosicion {
                 System.out.println(partido.getEquipoA().getNombre() + " vs " + partido.getEquipoB().getNombre() + ": Empate");
             } else {
                 System.out.println(partido.getEquipoA().getNombre() + " vs " + partido.getEquipoB().getNombre() + ": Ganador - " + ganador);
+                System.out.println("Finaliza el campeonato!");
             }
         }
     }

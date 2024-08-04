@@ -13,14 +13,17 @@ public class Inscripcion {
 
     // Métodos
     public void inscribirEquipo(Equipo equipo) {
+
         equipos.add(equipo);
     }
 
     public void inscribirJugador(String jugador) {
+
         this.jugador = jugador;
     }
 
     public List<Equipo> listarEquipos() {
+
         return equipos;
     }
 

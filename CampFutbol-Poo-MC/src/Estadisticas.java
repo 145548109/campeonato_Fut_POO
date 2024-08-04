@@ -6,6 +6,7 @@ public class Estadisticas {
     private int golesAFavor;
     private int golesEnContra;
     private int partidoEmpatado;
+    private int partidoPerdido;
 
     // Constructor
     public Estadisticas(Equipo equipo) {

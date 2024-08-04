@@ -16,11 +16,6 @@ public class Jugador extends Persona {
         this.partidosJugados = 0;
     }
 
-    // Métodos
-    public void anotarGol() {
-        this.numeroGoles++;
-    }
-
     public static Jugador crearJugador(Scanner scanner) {
         System.out.println("\n\t\tCOMPLETE LOS DATOS DEL JUGADOR!");
         System.out.print("Nombre y apellido: ");
@@ -34,6 +29,12 @@ public class Jugador extends Persona {
         scanner.nextLine();
         return new Jugador(nombreCompleto, DNI, fechaNacimiento, numeroCamisa);
     }
+
+    // Métodos
+    public void anotarGol() {
+        this.numeroGoles++;
+    }
+
 
     // Getters y Setters
     public int getNumeroCamisa() {

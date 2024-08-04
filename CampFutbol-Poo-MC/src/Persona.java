@@ -1,8 +1,8 @@
 public abstract class Persona {
     // Atributos
-    private String nombre;
-    private String DNI;
-    private String fechaNacimiento;
+    protected String nombre;
+    protected String DNI;
+    protected String fechaNacimiento;
 
     // Constructor
     public Persona(String nombre, String DNI, String fechaNacimiento) {
