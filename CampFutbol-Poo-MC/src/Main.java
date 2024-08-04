@@ -8,6 +8,14 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("\n\t\t\tBienvenido al sistema de gestión de campeonatos!\n");
         System.out.println("Podrás: Gestionar equipos, partidos y resultados de campeonatos.\n");
+        System.out.println("-----------------------------------------------------------------------------");
+        System.out.println("IMPORTANTE: Para un correcto funcionamiento deberas completar adecuadamente los campos solicitados:");
+        System.out.println("-EL nombre del campeonato debe contener unicamente letras.");
+        System.out.println("-El nombre del equipo no debe contener espacios ni numeros");
+        System.out.println("-Ingresar unicamente numeros en: número de equipos, goles, DNI");
+        System.out.println("-Completar el nombre del jugador con el formato: nombre apellido.");
+        System.out.println("-Completar fecha de nacimiento con el formato aaaa-mm-dd (Ejemplo: 2001-01-01).");
+        System.out.println("-----------------------------------------------------------------------------\n");
 
         // Solicitar el nombre del campeonato
         System.out.print("Ingrese el nombre del campeonato: ");
