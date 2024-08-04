@@ -5,7 +5,7 @@ El programa permite:
 
 - Registrar campeonato.<br>
 - Resgistrar equipos<br>
--Registrar numero de jugadores.<br>
+- Registrar numero de jugadores.<br>
 - Registrar informacion de jugadores: Nombre, fecha nacimineto, DNI.<br>
 - Registrar goles para cada equipo.<br>
 - Determinar: equipo ganador, empate.<br>
