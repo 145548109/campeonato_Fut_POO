@@ -14,7 +14,7 @@ El programa permite:
 
 **DIAGRAMA ACTUALIZADO V2.0 en base al codigo.**
 
-![image](https://github.com/user-attachments/assets/7ca6baba-31f6-40de-8ef0-c561cc61b8b9)
+![image](https://github.com/user-attachments/assets/ba4c20ba-3992-4faf-a2f3-3e7cb5c4d943)
 
 **EJECUCIÓN:**
 ![Screenshot 2024-08-04 063224](https://github.com/user-attachments/assets/a92d9c33-a105-4189-b2b0-f909f6908b55)
@@ -26,3 +26,9 @@ El programa permite:
 **DIAGRAMA UML V1.0 ANTERIOR**
 
 ![Screenshot 2024-07-29 233022](https://github.com/user-attachments/assets/ce05ad41-5274-4a96-a534-7f0c1b76fb87)
+
+
+**Para su ejecucion**
+- Clonar el proyecto
+- Usar un IDE que soporte Java (IntelliJ).
+- Compilar la clase main.java
