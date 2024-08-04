@@ -17,8 +17,8 @@ El programa permite:
 ![image](https://github.com/user-attachments/assets/83ae7a14-f6bb-43eb-8766-dfc7336fe677)
 
 **EJECUCIÓN:**
-![Screenshot 2024-08-04 063224](https://github.com/user-attachments/assets/a92d9c33-a105-4189-b2b0-f909f6908b55)
-![Screenshot 2024-08-04 063239](https://github.com/user-attachments/assets/e15796bb-f330-42b4-9a14-302a8d5bdb55)
+![image](https://github.com/user-attachments/assets/915fcbb2-590d-4649-bef9-a9acaaab3dbb)
+![image](https://github.com/user-attachments/assets/0f654e44-5975-4b26-a4e3-8fa52b7b9c83)
 
 **En caso de empate**
 ![image](https://github.com/user-attachments/assets/e22c765a-69c6-4265-9e71-f1d9a67a156b)
