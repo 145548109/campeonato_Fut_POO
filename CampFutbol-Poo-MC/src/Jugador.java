@@ -23,16 +23,16 @@ public class Jugador extends Persona {
 
     public static Jugador crearJugador(Scanner scanner) {
         System.out.println("\n\t\tCOMPLETE LOS DATOS DEL JUGADOR!");
-        System.out.print("Nombre: ");
-        String nombre = scanner.nextLine();
+        System.out.print("Nombre y apellido: ");
+        String nombreCompleto = scanner.nextLine();
         System.out.print("DNI: ");
         String DNI = scanner.nextLine();
         System.out.print("Fecha de nacimiento (AAAA-MM-DD): ");
         String fechaNacimiento = scanner.nextLine();
         System.out.print("Número de camisa: ");
         int numeroCamisa = scanner.nextInt();
-        scanner.nextLine(); // Limpiar buffer de entrada
-        return new Jugador(nombre, DNI, fechaNacimiento, numeroCamisa);
+        scanner.nextLine();
+        return new Jugador(nombreCompleto, DNI, fechaNacimiento, numeroCamisa);
     }
 
     // Getters y Setters
