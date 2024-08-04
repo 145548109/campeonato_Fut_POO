@@ -4,18 +4,16 @@ import java.util.Scanner;
 
 public class CampeonatoFutbol {
     //atributos
-    private String nombre;
-    private String jugador;
-
+//    private String nombre;
+//    private String jugador;
 
     //metodos
-    public static String seleccionarTipoCampeonato() {
-        Scanner scanner = new Scanner(System.in);
-        System.out.println("Selecciona el tipo de campeonato:");
+    public static String seleccionarTipoCampeonato(Scanner scanner) {
+        System.out.println("DIGITE EL TIPO DE CAMPEONATO:");
         System.out.println("1. Liga");
         System.out.println("2. Torneo");
         System.out.println("3. Grupo");
-        System.out.print("Opción (1/2/3): ");
+        System.out.print("Digite número: ");
         int opcion = scanner.nextInt();
         scanner.nextLine(); // Limpiar buffer de entrada
         switch (opcion) {
@@ -29,20 +27,5 @@ public class CampeonatoFutbol {
                 System.out.println("Opción no válida. Seleccionando 'Liga' por defecto.");
                 return "liga";
         }
-    }
-
-    public static List<int[]> registrarResultados(List<Partido> partidos) {
-        List<int[]> resultados = new ArrayList<>();
-        Scanner scanner = new Scanner(System.in);
-        for (Partido partido : partidos) {
-            System.out.println("Partido: " + partido.getEquipoA().getNombre() + " vs " + partido.getEquipoB().getNombre());
-            System.out.print("Goles de " + partido.getEquipoA().getNombre() + ": ");
-            int golesA = scanner.nextInt();
-            System.out.print("Goles de " + partido.getEquipoB().getNombre() + ": ");
-            int golesB = scanner.nextInt();
-            scanner.nextLine(); // Limpiar buffer de entrada
-            resultados.add(new int[]{partidos.indexOf(partido), golesA, golesB});
-        }
-        return resultados;
     }
 }
