@@ -1,17 +1,21 @@
 # campeonato_Fut_POO
 Campeonato deporte
 
-El programa permite:
+## Actividad:
+Diagrama UMl adaptado en Java.
+
+
+*EL SISTEMA PERMITE:*
 
 - Registrar campeonato.<br>
 - Resgistrar equipos<br>
-- Registrar numero de jugadores.<br>
-- Registrar informacion de jugadores: Nombre, fecha nacimiento, DNI.<br>
+- Registrar la cantidad de jugadores.<br>
+- Registrar información de jugadores: Nombre, fecha nacimiento, DNI.<br>
 - Registrar goles para cada equipo.<br>
 - Determinar: equipo ganador, empate.<br>
 - Presentar resultados: Equipo -> puntos, goles a favor, goles en contra, diferencia de goles.<br>
-- Seleccionar tipo de campeonato: Liga, torneo, grupo.
-- Mostrar estadisticas de los jugadores (nombre completo, fecha nacimiento, DNI, número camiseta) 
+- Mostrar estadísticas de los jugadores -> nombre completo, fecha nacimiento, DNI, número camiseta.<br>
+- Seleccionar tipo de campeonato: Liga, torneo, grupo.<br>
 
 **DIAGRAMA ACTUALIZADO V2.0.**
 
@@ -19,11 +23,11 @@ El programa permite:
 
 **EJECUCIÓN:**
 
-*IMPORTANTE:* Para un correcto funcionamiento deberás completar adecuadamente los campos solicitados:
+***IMPORTANTE:*** Para un correcto funcionamiento y evitar errores en su ejecución deberás completar adecuadamente los campos solicitados:
 
-- El nombre del campeonato debe contener únicamente letras.
-- El nombre del equipo no debe contener espacios ni números.
-- Ingresar únicamente números en: número de equipos, goles, DNI.
+- El nombre del campeonato DEBE CONTENER únicamente letras.
+- El nombre del equipo NO DEBE CONTENER espacios ni números.
+- Ingresar únicamente números en: número de equipos, goles, DNI, elegir tipo de campeonato (1/2/3).
 - Completar el nombre del jugador con el formato: nombre apellido.
 - Completar la fecha de nacimiento con el formato aaaa-mm-dd (Ejemplo: 2001-01-01).
 
