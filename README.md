@@ -6,11 +6,12 @@ El programa permite:
 - Registrar campeonato.<br>
 - Resgistrar equipos<br>
 - Registrar numero de jugadores.<br>
-- Registrar informacion de jugadores: Nombre, fecha nacimineto, DNI.<br>
+- Registrar informacion de jugadores: Nombre, fecha nacimiento, DNI.<br>
 - Registrar goles para cada equipo.<br>
 - Determinar: equipo ganador, empate.<br>
 - Presentar resultados: Equipo -> puntos, goles a favor, goles en contra, diferencia de goles.<br>
 - Seleccionar tipo de campeonato: Liga, torneo, grupo.
+- Mostrar estadisticas de los jugadores (nombre completo, fecha nacimiento, DNI, número camiseta) 
 
 **DIAGRAMA ACTUALIZADO V2.0.**
 
