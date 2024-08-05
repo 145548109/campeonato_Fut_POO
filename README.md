@@ -43,7 +43,7 @@ Diagrama UML adaptado en Java.
 ![Screenshot 2024-07-29 233022](https://github.com/user-attachments/assets/ce05ad41-5274-4a96-a534-7f0c1b76fb87)
 
 
-**Para su ejecucion**
+**Para su ejecución**
 - Clonar el proyecto
 - Compilar la clase main.java
 
