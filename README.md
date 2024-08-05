@@ -26,9 +26,9 @@ El programa permite:
 - Completar el nombre del jugador con el formato: nombre apellido.
 - Completar la fecha de nacimiento con el formato aaaa-mm-dd (Ejemplo: 2001-01-01).
 
-![image](https://github.com/user-attachments/assets/5770d2c0-8bf3-49d5-9d63-33a04b7fe182)
-![image](https://github.com/user-attachments/assets/72fc5c6c-d92d-4b43-9b18-c02d915066d4)
-![image](https://github.com/user-attachments/assets/03b2b0aa-bbb4-4bff-a747-35c51c6afde5)
+![Screenshot 2024-08-05 052429](https://github.com/user-attachments/assets/265657d3-dc2b-4fb8-85d8-68a0c38659e6)
+![Screenshot 2024-08-05 052443](https://github.com/user-attachments/assets/34c08db0-33bc-4519-881f-0ece9cc81c61)
+![Screenshot 2024-08-05 052508](https://github.com/user-attachments/assets/ec5de536-8819-4047-b58d-ed33747cbf26)
 
 **En caso de empate**
 ![image](https://github.com/user-attachments/assets/62b28007-302f-4acb-9657-c242d9a18979)
