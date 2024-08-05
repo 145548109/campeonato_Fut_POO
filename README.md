@@ -39,5 +39,9 @@ El programa permite:
 
 **Para su ejecucion**
 - Clonar el proyecto
-- Usar un IDE que soporte Java (IntelliJ).
 - Compilar la clase main.java
+
+**Requerimientos**
+- Usar un IDE que soporte Java (IntelliJ).
+- Versión de java usada: 21
+- NOTA: para conocer su versión digite java--version en su ventana de comandos (CMD)
