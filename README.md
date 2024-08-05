@@ -2,7 +2,7 @@
 Campeonato deporte
 
 ## Actividad:
-Diagrama UMl adaptado en Java.
+Diagrama UML adaptado en Java.
 
 
 *EL SISTEMA PERMITE:*
