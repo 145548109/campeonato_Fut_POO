@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 public class CampeonatoFutbol {
     //atributos
-    private String nombre;
-    private String jugador;
+   private String nombre;
+   private String jugador;
 
     //metodos
     public static String seleccionarTipoCampeonato(Scanner scanner) {
