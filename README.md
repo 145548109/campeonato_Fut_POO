@@ -15,7 +15,7 @@ El programa permite:
 
 **DIAGRAMA ACTUALIZADO V2.0.**
 
-![image](https://github.com/user-attachments/assets/83ae7a14-f6bb-43eb-8766-dfc7336fe677)
+![image](https://github.com/user-attachments/assets/0ae3f984-b8d2-4f24-97cd-570cda4e0413)
 
 **EJECUCIÓN:**
 
