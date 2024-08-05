@@ -27,9 +27,8 @@ El programa permite:
 - Completar la fecha de nacimiento con el formato aaaa-mm-dd (Ejemplo: 2001-01-01).
 
 ![image](https://github.com/user-attachments/assets/5770d2c0-8bf3-49d5-9d63-33a04b7fe182)
-![image](https://github.com/user-attachments/assets/03b2b0aa-bbb4-4bff-a747-35c51c6afde5)
 ![image](https://github.com/user-attachments/assets/72fc5c6c-d92d-4b43-9b18-c02d915066d4)
-
+![image](https://github.com/user-attachments/assets/03b2b0aa-bbb4-4bff-a747-35c51c6afde5)
 
 **En caso de empate**
 ![image](https://github.com/user-attachments/assets/62b28007-302f-4acb-9657-c242d9a18979)
