@@ -6,6 +6,8 @@ public class Jugador extends Persona {
     private int faltas;
     private int numeroGoles;
     private int partidosJugados;
+    private String dni;
+
 
     // Constructor
     public Jugador(String nombre, String DNI, String fechaNacimiento, int numeroCamisa) {
@@ -14,6 +16,7 @@ public class Jugador extends Persona {
         this.faltas = 0;
         this.numeroGoles = 0;
         this.partidosJugados = 0;
+        this.dni = dni;
     }
 
     public static Jugador crearJugador(Scanner scanner) {
@@ -28,6 +31,14 @@ public class Jugador extends Persona {
         int numeroCamisa = scanner.nextInt();
         scanner.nextLine();
         return new Jugador(nombreCompleto, DNI, fechaNacimiento, numeroCamisa);
+    }
+
+
+    public void imprimirEstadisticas() {
+        System.out.println("Nombre y apellido: " + nombre);
+        System.out.println("Fecha de Nacimiento: " + fechaNacimiento);
+        System.out.println("DNI: " + DNI);
+        System.out.println("Número de camisa: " + numeroCamisa);
     }
 
     // Métodos

@@ -27,6 +27,10 @@ public class Estadisticas {
         }
     }
 
+    public void estadisticasIndividuales(){
+
+    }
+
     // Getters y Setters
     public int getPuntos() {
         return puntos;
