@@ -26,11 +26,13 @@ El programa permite:
 - Completar el nombre del jugador con el formato: nombre apellido.
 - Completar la fecha de nacimiento con el formato aaaa-mm-dd (Ejemplo: 2001-01-01).
 
-![image](https://github.com/user-attachments/assets/915fcbb2-590d-4649-bef9-a9acaaab3dbb)
-![image](https://github.com/user-attachments/assets/0f654e44-5975-4b26-a4e3-8fa52b7b9c83)
+![image](https://github.com/user-attachments/assets/5770d2c0-8bf3-49d5-9d63-33a04b7fe182)
+![image](https://github.com/user-attachments/assets/03b2b0aa-bbb4-4bff-a747-35c51c6afde5)
+![image](https://github.com/user-attachments/assets/72fc5c6c-d92d-4b43-9b18-c02d915066d4)
+
 
 **En caso de empate**
-![image](https://github.com/user-attachments/assets/e22c765a-69c6-4265-9e71-f1d9a67a156b)
+![image](https://github.com/user-attachments/assets/62b28007-302f-4acb-9657-c242d9a18979)
 
 **DIAGRAMA UML V1.0 ANTERIOR**
 
